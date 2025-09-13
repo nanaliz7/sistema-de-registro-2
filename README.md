@@ -1,25 +1,32 @@
-<h1>Amigo Secreto</h1>
-¡Bienvenido al repositorio de la aplicación web Amigo Secreto!
+#  Amigo Secreto
+
+<p aline="center">
+  
+**¡Bienvenido al repositorio de la aplicación web Amigo Secreto!**
+
+<p aline="center">
+
 
 Esta es una herramienta sencilla y divertida para organizar sorteos de amigo secreto con tus amigos, familiares o compañeros. La aplicación te permite ingresar los nombres de los participantes y sortearlos de forma aleatoria, asegurando que cada persona tenga un "amigo secreto" sin que nadie sepa quién lo tiene.
 
-<h2>Características</h2>
-Añadir Amigos: Ingresa los nombres de los participantes uno por uno.
+## Características
 
--Lista de Participantes: Visualiza la lista de todos los amigos que han sido añadidos al sorteo.
+. Añadir Amigos: Ingresa los nombres de los participantes uno por uno.
 
--Sorteo Aleatorio: Un clic en un botón y la aplicación elige un amigo secreto al azar.
+. Lista de Participantes: Visualiza la lista de todos los amigos que han sido añadidos al sorteo.
 
--Sorteo Justo: El algoritmo asegura que cada nombre se sortea solo una vez, deteniéndose cuando todos los participantes han sido asignados.
+. Sorteo Aleatorio: Un clic en un botón y la aplicación elige un amigo secreto al azar.
 
-<h3>Tecnologías Utilizadas</h3>
+. Sorteo Justo: El algoritmo asegura que cada nombre se sortea solo una vez, deteniéndose cuando todos los participantes han sido asignados.
+
+### Tecnologías Utilizadas
 -HTML5: Para la estructura y el contenido de la página.
 
 -CSS3: Para el diseño y la interfaz de usuario.
 
 -JavaScript (ES6): Para la lógica del sorteo, la manipulación del DOM y la interacción de la aplicación.
 
-<h4>Cómo usarlo</h4>
+## Cómo usarlo
 
 Clona el repositorio:
 
