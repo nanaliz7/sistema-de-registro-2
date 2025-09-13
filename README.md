@@ -28,12 +28,7 @@ Esta es una herramienta sencilla y divertida para organizar sorteos de amigo sec
 
 ## Cómo usarlo
 
-Clona el repositorio:
 
-Bash
-
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-Abre el archivo index.html en tu navegador web.
 
 -Añade los nombres de tus amigos en el campo de texto y haz clic en "Añadir".
 
